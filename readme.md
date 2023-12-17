@@ -4,21 +4,16 @@ PAMP - Portable Apache MariaDB PHP
 Introduction
 ----------------------------
 
-It's portable web server for php development.
-
-It focues on <u>fully portable</u> and <u>modificable</u>.
-
-It helps to <u>speedly setup or switch</u> development environments for projects on windows. 
+It's portable web server for php development on windows
 
 Features
 ----------------------------
 
 - Fast
-- Switch between versions
 - Portable fully
 - Modificable fully
-- Small size
-- Manually server management
+- Switch between versions
+- Enable virtual hosts with valid local ssl
 
 ## Requirement
 
@@ -69,7 +64,7 @@ Installation
 
 - [ ] Repeat step 5,6
 
-## Fully modificable
+## Modificable fully
 
 All files are plain text
 
