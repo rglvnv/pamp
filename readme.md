@@ -4,6 +4,8 @@ PAMP - Portable Apache MariaDB PHP
 Introduction
 ----------------------------
 
+It's portable web server for php development.
+
 It focues on <u>fully portable</u> and <u>modificable</u>.
 
 It helps to <u>speedly setup or switch</u> development environments for projects on windows. 
@@ -11,6 +13,7 @@ It helps to <u>speedly setup or switch</u> development environments for projects
 Features
 ----------------------------
 
+- Fast
 - Switch between versions
 - Portable fully
 - Modificable fully
@@ -23,7 +26,7 @@ Features
   
   - https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist
 
-- Make ports `80` `443` `3306` free
+- The ports `80` `443` `3306` free
   
   - Check: Resource Monitor → Network → Listening Ports
 
