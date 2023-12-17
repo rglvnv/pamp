@@ -15,7 +15,7 @@ Features
 - Switch between versions
 - Enable virtual hosts with valid local ssl
 
-## Requirement
+## Requirement (of Apache MariaDB PHP)
 
 - Microsoft Visual C++ Redistributable, both x86 and x64 versions
   
